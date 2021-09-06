@@ -20,3 +20,5 @@ Galeria de fotos com upload, visualizacao e exclusao via filesystem.
 <!-- 2021-09-06 09:51 -->
 
 <!-- 2021-09-06 09:51 -->
+
+<!-- 2021-09-06 09:51 -->
